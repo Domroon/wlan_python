@@ -1,0 +1,5 @@
+cffi==1.15.0
+comtypes==1.1.11
+cryptography==36.0.2
+pycparser==2.21
+pywifi==1.1.12
